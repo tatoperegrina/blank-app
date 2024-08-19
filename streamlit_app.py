@@ -1,6 +1,6 @@
 import streamlit as st
 
-# Título principal
+
 st.title("Currículum Vitae")
 
 
@@ -13,7 +13,8 @@ st.write("""
 - **Ciudad y Estado:** Guadalajara, Jalisco
 """)
 
-# Resumen
+st.markdown("---")
+
 st.header("Resumen")
 st.write("""
 Estudiante de 7mo semestre en la Universidad Panamericana de Guadalajara, cursando la licenciatura de Administración y Finanzas
@@ -21,7 +22,8 @@ Además llevo trabando más de año y medio en una empresa de Desarrollo Inmobil
 Manejo las herramientas de Office, principalmente excel. También un poco sobre programación
 """)
 
-# Experiencia laboral
+st.markdown("---")
+
 st.header("Experiencia Laboral")
 
 st.subheader("Becario de Finanzas")
@@ -51,7 +53,8 @@ st.write("""
 2. Administración y Contabilidad del negocio
 """)
 
-# Educación
+st.markdown("---")
+
 st.header("Educación")
 
 st.subheader("Licenciatura en Administración y Finanzas")
@@ -67,14 +70,16 @@ st.write("""
 - **Duración:** 2019 - 2021
 
 """)
-# Habilidades
+st.markdown("---")
+
 st.header("Habilidades")
 st.write("""
 - **Programas y Aplicaciones:** Microsoft Office, Google Drive, VBA, Python (aprendiendo actualmente)
 - **Aptitudes:** Liderazgo, buen manejo del estrés, trabajo bajo presión, honestidad ante todo
 """)
 
-# Sección de contacto
+st.markdown("---")
+
 st.header("Contacto")
 st.write("Para cualquier duda, aclaración o contacto, no dude en llamarme a mi telefono personal o correo electrónico mencionado en la parte superior de la página.")
 
