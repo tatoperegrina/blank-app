@@ -6,7 +6,7 @@ st.title("Currículum Vitae")
 
 st.header("Información Personal")
 st.write("""
-- **Nombre:** Santiago Peregrina Flores
+- **Nombre:** **Santiago Peregrina Flores**
 - **Edad:** 22 años
 - **Correo Electrónico:** 0242856@up.edu.mx
 - **Teléfono:** 3312706143  
@@ -63,7 +63,7 @@ st.write("""
 - **Duración:** 2021 - Actualidad (termino en 2025)  
 
 """)
-st.progress(78)
+
 
 st.subheader("Preparatoria")
 st.write("""
