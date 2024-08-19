@@ -61,8 +61,9 @@ st.subheader("Licenciatura en Administración y Finanzas")
 st.write("""
 - **Institución:** Universidad Panamericana de Guadalajara
 - **Duración:** 2021 - Actualidad (termino en 2025)  
-st.progress(78)
+
 """)
+st.progress(78)
 
 st.subheader("Preparatoria")
 st.write("""
@@ -70,6 +71,7 @@ st.write("""
 - **Duración:** 2019 - 2021
 st.progress(100)
 """)
+st.progress(100)
 st.markdown("---")
 
 st.header("Habilidades")
