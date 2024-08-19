@@ -26,29 +26,29 @@ st.header("Experiencia Laboral")
 
 st.subheader("Becario de Finanzas")
 st.write("""
-**Empresa:** Grupo MAG 
-**Duración:** abril de 2023 - Actualidad
-**Responsabilidades:**  
-- Elaboración de modelos financieros sobre proyectos inmobiliarios
-- Análisis de costos, gastos, ingresos y futuros proyectos
-- Elaboración de proyecciones financieras       
+- **Empresa:** Grupo MAG 
+- **Duración:** abril de 2023 - Actualidad
+- **Responsabilidades:**  
+1. Elaboración de modelos financieros sobre proyectos inmobiliarios
+2. Análisis de costos, gastos, ingresos y futuros proyectos
+3. Elaboración de proyecciones financieras       
 """)
 
 st.subheader("Venta de Joyería")
 st.write("""
-**Empresa:** Personal 
-**Duración:** 2020 - Actualidad 
-**Responsabilidades:**  
-- Venta de joyería de oro y diamantes en tiempo libre
+- **Empresa:** Personal 
+- **Duración:** 2020 - Actualidad 
+- **Responsabilidades:**  
+1. Venta de joyería de oro y diamantes en tiempo libre
 """)
 
 st.subheader("Venta de Productos de Cerdo")
 st.write("""
-**Empresa:** Personal 
-**Duración:** 2020 - 2022
-**Responsabilidades:**  
-- Venta de productos de cerdo
-- Administración y Contabilidad del negocio
+- **Empresa:** Personal 
+- **Duración:** 2020 - 2022
+- **Responsabilidades:**  
+1. Venta de productos de cerdo
+2. Administración y Contabilidad del negocio
 """)
 
 # Educación
@@ -56,15 +56,15 @@ st.header("Educación")
 
 st.subheader("Licenciatura en Administración y Finanzas")
 st.write("""
-**Institución:** Universidad Panamericana de Guadalajara
-**Duración:** 2021 - Actualidad (termino en 2025)  
+- **Institución:** Universidad Panamericana de Guadalajara
+- **Duración:** 2021 - Actualidad (termino en 2025)  
 
 """)
 
 st.subheader("Preparatoria")
 st.write("""
-**Institución:** Liceo del Valle A.C.
-**Duración:** 2019 - 2021
+- **Institución:** Liceo del Valle A.C.
+- **Duración:** 2019 - 2021
 
 """)
 # Habilidades
