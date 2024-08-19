@@ -2,7 +2,7 @@ import streamlit as st
 
 
 
-st.markdown("<h1 style='color: #3498db;'>Currículum Vitae</h1>", unsafe_allow_html=True)
+st.title("Currículum Vitae")
 
 st.header("Información Personal")
 st.write("""
