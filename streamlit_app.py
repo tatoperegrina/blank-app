@@ -1,6 +1,18 @@
 import streamlit as st
 
-
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: #2c3e50; /* Gris oscuro */
+    }
+    body {
+        color: #ffffff; /* Blanco */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 st.title("Currículum Vitae")
 
