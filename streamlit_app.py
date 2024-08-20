@@ -5,9 +5,10 @@ st.markdown(
     <style>
     .stApp {
         background-color: #2c3e50; /* Gris oscuro */
+        color: #ffffff; /* Blanco para el texto */
     }
-    body {
-        color: #ffffff; /* Blanco */
+    div.css-1kyxreq.egzxvld0 {
+        color: #ffffff; /* Blanco para los textos específicos */
     }
     </style>
     """,
