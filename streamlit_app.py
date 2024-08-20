@@ -3,6 +3,7 @@ import streamlit as st
 
 
 st.title("Currículum Vitae")
+st.markdown("---")
 
 st.header("Información Personal")
 st.write("""
