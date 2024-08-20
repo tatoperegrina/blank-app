@@ -45,16 +45,7 @@ st.write("""
 1. Venta de joyería de oro y diamantes en tiempo libre
 """)
 
-st.subheader("Venta de Productos de Cerdo")
-st.write("""
-- **Empresa:** Personal 
-- **Duración:** 2020 - 2022
-- **Responsabilidades:**  
-1. Venta de productos de cerdo
-2. Administración y Contabilidad del negocio
-""")
 
-st.markdown("---")
 
 st.header("Educación")
 
